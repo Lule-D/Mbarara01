@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">Mbarara Central Market</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="crtstg">It is of Good health to have a carrot daily. Doctors advise that carrots build up human sight.
+    Here at Mbarara Central, we value health that we bring you fresh fruits such as carrots that will help buid your body actively
+    and strenghtne your immunity...enjoy!</string>
+    <string name="onstg">It is of Good health to have a fresh Onions. Doctors advise that onions build up human sight.
+    Here at Mbarara Central, we value health that we bring you fresh foods such as onions that will help buid your body actively
+    and strenghtne your immunity...enjoy!</string>
+    <string name="ttstg">It is of Good health to have a fresh tomato daily for a diet. Doctors advise that tomatoes build up human human organs.
+    Here at Mbarara Central, we value health that we bring you fresh tomatoes that will help buid your body actively
+    and strenghtne your immunity...enjoy!</string>
+    <string name="crtstg1">It is of Good health to have a carrot daily. Doctors advise that carrots build up human sight.
+    Here at Mbarara Central, we value health that we bring you fresh fruits such as carrots that will help buid your body actively
+    and strenghtne your immunity. Prices in the market vary according to our delighted customer choices. But these are measured in kilograms
+        as one goes for 4000 ugx. Enjoy your purchases..!</string>
+    <string name="onstg1">It is of Good health to have a fresh Onions. Doctors advise that onions build up human sight.
+    Here at Mbarara Central, we value health that we bring you fresh foods such as onions that will help buid your body actively
+    and strenghtne your immunity. Prices in the market vary according to our delighted customer choices. But these are measured in kilograms
+        as one goes for 5000 ugx. Enjoy your purchases..enjoy!</string>
+    <string name="ttstg1">It is of Good health to have a fresh tomato daily for a diet. Doctors advise that tomatoes build up human human organs.
+    Here at Mbarara Central, we value health that we bring you fresh tomatoes that will help buid your body actively
+    and strenghtne your immunity. Prices in the market vary according to our delighted customer choices. But these are measured in kilograms
+        as one goes for 3500 ugx. Enjoy your purchases..enjoy!</string>
+
+
+</resources>
